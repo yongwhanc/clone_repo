@@ -4,6 +4,6 @@
 #     pass
     
 # Please remove the comments from the code below in terminal B
-# def run():
-#     if A_part():
-#         print("It is okay!")
+def run():
+    if A_part():
+        print("It is okay!")
