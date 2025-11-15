@@ -2,5 +2,5 @@
 ## Then, push to the remote repository only from "A" terminal first.
 ## After pushing from "A", try to push from "B" terminal and observe the conflict.
 
-# def run():
-#     print("Module conflict is implemented.")
+def run():
+    print("Module conflict is implemented.")
